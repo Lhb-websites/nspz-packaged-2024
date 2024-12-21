@@ -1,81 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://packages.kaizenstrategy.us/web-search-visibility-packages</loc>
+        <loc>https://newsecurepromotions.zel.digital/</loc>
         <lastmod>2024-12-20</lastmod>
-        <changefreq>monthly</changefreq>
+        <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://packages.kaizenstrategy.us/web-search-visibility-packages/quartz</loc>
+        <loc>https://newsecurepromotions.zel.digital/about/</loc>
         <lastmod>2024-12-20</lastmod>
-        <changefreq>monthly</changefreq>
+        <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://packages.kaizenstrategy.us/web-search-visibility-packages/amethyst</loc>
+        <loc>https://newsecurepromotions.zel.digital/services/</loc>
         <lastmod>2024-12-20</lastmod>
-        <changefreq>monthly</changefreq>
+        <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://packages.kaizenstrategy.us/web-search-visibility-packages/topaz</loc>
+        <loc>https://newsecurepromotions.zel.digital/new-secure-promotions-packages/</loc>
         <lastmod>2024-12-20</lastmod>
-        <changefreq>monthly</changefreq>
+        <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://packages.kaizenstrategy.us/web-search-visibility-packages/emerald</loc>
+        <loc>https://newsecurepromotions.zel.digital/contact/</loc>
+        <lastmod>2024-12-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <!-- Adding top cities for regional SEO targeting -->
+    <url>
+        <loc>https://newsecurepromotions.zel.digital/new-york</loc>
         <lastmod>2024-12-20</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>0.9</priority>
+        <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://packages.kaizenstrategy.us/web-search-visibility-packages/diamond</loc>
+        <loc>https://newsecurepromotions.zel.digital/los-angeles</loc>
         <lastmod>2024-12-20</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
+        <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://packages.kaizenstrategy.us/web-search-visibility-packages/professional-plan</loc>
+        <loc>https://newsecurepromotions.zel.digital/chicago</loc>
         <lastmod>2024-12-20</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
+        <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://packages.kaizenstrategy.us/web-search-visibility-packages/elite-plan</loc>
+        <loc>https://newsecurepromotions.zel.digital/houston</loc>
         <lastmod>2024-12-20</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
+        <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://packages.kaizenstrategy.us/web-search-visibility-packages/new-york</loc>
+        <loc>https://newsecurepromotions.zel.digital/phoenix</loc>
         <lastmod>2024-12-20</lastmod>
         <changefreq>monthly</changefreq>
-        <priority>0.9</priority>
-    </url>
-    <url>
-        <loc>https://packages.kaizenstrategy.us/web-search-visibility-packages/los-angeles</loc>
-        <lastmod>2024-12-20</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.9</priority>
-    </url>
-    <url>
-        <loc>https://packages.kaizenstrategy.us/web-search-visibility-packages/chicago</loc>
-        <lastmod>2024-12-20</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.9</priority>
-    </url>
-    <url>
-        <loc>https://packages.kaizenstrategy.us/web-search-visibility-packages/houston</loc>
-        <lastmod>2024-12-20</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.9</priority>
-    </url>
-    <url>
-        <loc>https://packages.kaizenstrategy.us/web-search-visibility-packages/phoenix</loc>
-        <lastmod>2024-12-20</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.9</priority>
+        <priority>0.7</priority>
     </url>
 </urlset>
